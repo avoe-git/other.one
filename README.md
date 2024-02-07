@@ -1,8 +1,11 @@
-<h1>Introducing</h1>
+# Introducing
 Welcome to my new web-project. This project will include some design tips and more.
-<h3>Note:<h3>
+### Note:
+>>>>>>> 3252d7c363afb25548de82d3918b572c1cc45043
 But I also may change topic of web-project.
-<h1>Some issues</h1>
+# Some Issues
 This web app is not responsive yet. But you can help to develop it with me and make it responsive. Contact me with my <a href='https://instagram.com/avoe.x'>Instagram</a>
-<h1>Thanks for calloborating to:<h1>
-````Nothing there````
+# Thanx for collaborating to:
+```Nothing to see here :(```
+
+>>>>>>> 3252d7c363afb25548de82d3918b572c1cc45043
